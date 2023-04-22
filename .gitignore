@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/book-library/book-models/obj
+/book-library/book-models/bin/Debug/net6.0
+/book-library/book-models/efpt.config.json
+/.vs
+/book-library/books-service/bin/Debug/net6.0
+/book-library/books-service/obj
+/book-library/.vs/book-library
